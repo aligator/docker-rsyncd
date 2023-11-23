@@ -1,4 +1,4 @@
-FROM ubuntu:20.10
+FROM ubuntu:22.04
 MAINTAINER thomfab
 
 RUN apt-get update && \
